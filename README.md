@@ -1,2 +1,2 @@
 To use the script paste this command in termux
-wget
+wget https://raw.githubusercontent.com/CheatEnigner/Termux/main/Script.sh
